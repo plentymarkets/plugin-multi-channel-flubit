@@ -1,195 +1,27 @@
 
-# Etsy plugin user guide
+# Flubit
 
 <div class="container-toc"></div>
 
-## Registering with Etsy
+Can you guarantee your customers the lowest price? Flubit makes it possible!
 
-**Etsy** is an American online market focused on handmade or vintage items. In order to set up Etsy in your plentymarkets system, you have to register as a seller first an create and new App. You will then receive the access data that you need for the configuration in plentymarkets.
+Selling a product on Flubit is not a whole lot different than selling on any other market. However, you don't list your products on Flubit in a way where customers are able to see your products and offers. It all works a little bit differently here.
 
-## Installing Etsy in plentymarkets
+## How are items sold on Flubit?
 
-After buying the Etsy plugin in the plentyMarketplace, install the market in the menu **Start » Plugins » Tab: Purchases**. Then switch to the tab **Plugins** and open **Etsy**. Now enter the Keystring and Shared secret in the **Configuration** section. You should have received both after creating the app on Etsy. Save the setting.
+Customers who have already found an item on a different online market simply copy the URL in their browser and paste it on flubit.com. If you sell this item at a lower price than the original link, then Flubit will offer your item to the customer and you will receive the order! 
 
-### Granting rights
+## How much will it cost?
 
-First, the interface has to be activated in the menu **Settings » Markets » Etsy » Authentication**. Click on **Etsy login** to do so. Afterwards, you are forwarded directly to Etsy where the interface can be activated.
+One of the main reasons why it's possible to offer a lower price on Flubit is because sellers can list their products free of charge on this platform. Since you do not need to pay a commission for your products like you do on other markets, you can sell your product at a much lower price. Use a price column to specify a minimum price for all of the products that you list on Flubit.
 
-### Setting up Etsy
+## Where and how can you use Flubit?
 
-Go to **Settings » Markets » Etsy » Settings** to enter your Store ID and to activate the item export, stock update and order import. Etsy allows 500 calls per day. If you need more than 500 calls, contact Etsy directly.
+Flubit is completely integrated in plentymarkets. It is configured the same as other markets. Take a look at the Flubit page of the [manual](https://knowledge.plentymarkets.com/en/omni-channel/multi-channel/flubit) for information on how this is done.
 
-## Setting the item availability
+The British company made its debut in 2012 and has already taken the UK by storm. At the moment, its services are available for links from online stores and markets that have a UK URL. In other words, customers can use Flubit for an item that they found on Amazon.co.uk, but not for an item listed on Amazon.de. The same applies to the customer's delivery address. Flubit currently offers its service for orders that have a delivery address in the United Kingdom. The company is currently planning to expand its business model to other countries.
 
-Items have to be available for Etsy. This is done in the **Availability** tab of an item within the **Item » Edit item » Tab: Variation ID** menu. It is not possible to transfer variations to Etsy. Therefore, item variations are transferred as main items to Etsy.
+In short: At the moment, you can only offer your products to customers in the UK.
+If you typically sell in a different language, don't forget that any items you offer on Flubit need to be available in English. 
 
-##### Setting the item availability for Etsy:
-
-1. Open the **Item » Edit item » Open item » Tab: Variation ID » Tab: Settings** menu. 
-2. Activate the main variation in the **Availability** section. 
-3. Click on the **Availability** tab. 
-4. Click in the **Markets** section in the selection field. → A list with all available markets will be displayed. 
-5. Activate the option **Etsy**. 6. Click on **Add**. → The Market will be added. 
-7. **Save** the settings. → The item is available on etsy.
-
-The availability for variations can be individually edit in the **Item » Edit item » Open item » Tab: Variation ID » Open variation » Tab: Availability** menu.
-
-If you are already selling on Etsy, save Etsy's listing IDs as SKUs in the menu **Item » Edit item » Open item » Tab: Variation ID » Tab: Settings »Tab: Availability** for the referrer **Etsy**. By doing so, items will be assigned during the item export to the items already listed on Etsy in order to prevent overselling.
-
-## Defining a sales price
-
-Proceed as described below to define a sales price for the order referrer Etsy. This price will be displayed on Etsy. 
-
-##### Defining a sales price for Etsy:
-
-1. Open the menu **Settings » Item » Sales price » Open sales price » Tab: Settings**. 
-2. Place a check mark next to the referrer **Etsy**. 
-3. **Save** the settings.
-
-## Link categories
-
-Link your store categories to the Etsy categories in order to display your items in these categories. Further items from the linked category will be assigned automatically.
-
-##### Linking categories:
-
-1. Go to **Settings » Markets » Etsy » Category link**. 
-2. Click on **Search**. → The **Select category** window will open. 
-3. Select the Etsy category that best matches your online store category. 
-4. Click on **Apply**. → The name and category path of the Etsy category will be displayed. 
-5. If you know the name of the Etsy category, enter it directly into the **Market category** field to link it to your online store category. 
-6. **Save** the settings.
-
-## Linking properties
-
-In order to use properties for the Etsy market, these properties have to be linked with Etsy.
-
-##### Linking properties:
-
-1. Go to **Settings » Markets » Etsy » Property link**. 
-2. Click on **Search**. → The **Select property** window will open. 
-3. Select the Etsy property that best matches to your online store property. 
-4. Click on **Apply**. → The name and property path of the Etsy property will be displayed. 
-5. **Save** the settings.
-
-## Linking shipping profiles
-
-Link etsy shipping profiles to the shipping profiles of your online store in the menu **Settings » Markets » Etsy » Shipping profile links**. 
-
-##### Linking shipping profiles:
-
-1. Go to **Settings » Markets » Etsy » Shipping profile links**. 
-2. Select the Etsy shipping profile that best matches to your online store shipping profile. 
-3. Click on **Apply**. 
-4. **Save** the settings.
-
-## Automatically sending payment confirmations
-
-Set up an event procedure to automatically send payment confirmations to Etsy when incoming payment is booked.
-
-##### Setting up an event procedure:
-
-1. Go to **Settings » Orders » Event procedures**. 
-2. Click on **Add event procedure**. → The **Create new event procedure** window will open. 
-3. Enter a name. 
-4. Select the Event listed in table 1. 
-5. **Save** the settings. 
-6. Pay attention to the explanations given in table 1 and carry out the settings as desired. 
-7. Place a check mark next to the option **Active**. 
-8. **Save** the settings.
-
-<table>
-	<thead>
-		<th>
-			Setting
-		</th>
-		<th>
-			Option
-		</th>
-<th>
-			Selection
-		</th>
-	</thead>
-	<tbody>
-      <tr>
-         <td><strong>Event</strong></td>
-         <td><strong>Payment: Complete</strong></td> 
-<td></td>
-      </tr>
-      <tr>
-         <td><strong>Filter 1</strong></td>
-         <td><strong>Order &gt; Order type</strong></td>
-<td><strong>Order</strong></td>
-      </tr>
-<tr>
-         <td><strong>Filter 2</strong></td>
-         <td><strong>Order &gt; Referrer</strong></td>
-<td><strong>Etsy</strong></td>
-      </tr>
-      <tr>
-         <td><strong>Procedure</strong></td>
-         <td><strong>Plugin &gt; Send payment confirmation to Etsy</strong></td>
-<td>&nbsp;</td>
-      </tr>
-</tbody>
-	<caption>
-		Table 1: Event procedure for sending automatic payment confirmations to Etsy
-	</caption>
-</table>
-
-## Automatically send shipping confirmation
-
-Set up an event procedure to automatically send shipping confirmations to Etsy when the outgoing items are booked.
-
-##### Setting up an event procedure:
-
-1. Go to **Settings » Orders » Event procedures**. 
-2. Click on **Add event procedure**. → The **Create new event procedure** window will open. 
-3. Enter a name. 
-4. Select the event listed in table 2. 
-5. **Save** the settings. 6. Pay attention to the explanations given in table 2 and carry out the settings as desired. 
-7. Place a check mark next to the option **Active**. 
-8. **Save** the settings.
-
-
-<table>
-	<thead>
-		<th>
-			Setting
-		</th>
-		<th>
-			Option
-		</th>
-<th>
-			Selection
-		</th>
-	</thead>
-	<tbody>
-      <tr>
-         <td><strong>Event</strong></td>
-         <td><strong>Order change: Outgoing items booked</strong></td> 
-<td></td>
-      </tr>
-      <tr>
-         <td><strong>Filter 1</strong></td>
-         <td><strong>Order &gt; Order type</strong></td>
-<td><strong>Order</strong></td>
-      </tr>
-<tr>
-         <td><strong>Filter 2</strong></td>
-         <td><strong>Order &gt; Referrer</strong></td>
-<td><strong>Etsy</strong></td>
-      </tr>
-      <tr>
-         <td><strong>Procedure</strong></td>
-         <td><strong>Plugin &gt; Send shipping confirmation to Etsy</strong></td>
-<td>&nbsp;</td>
-      </tr>
-</tbody>
-	<caption>
-		Table 2: Event procedure for sending automatic shipping confirmations to Etsy
-	</caption>
-</table>
-
-## License
-
-This project is licensed under the GNU AFFERO GENERAL PUBLIC LICENSE.- find further information in the [LICENSE.md](https://github.com/plentymarkets/plugin-etsy/blob/master/LICENSE.md).
+Further information about Flubit and a link to the registration area are found under [weflubit.com](https://sellers.skucloud.co.uk/).
