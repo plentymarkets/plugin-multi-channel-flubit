@@ -17,13 +17,13 @@ Ein günstigerer Preis bei Flubit ist vor allem dadurch möglich, dass das Liste
 
 ## Wo und wie können Sie Flubit nutzen?
 
-Wie gewohnt haben wir den Marktplatz voll in plentymarkets integriert. Die Einrichtung erfolgt nach dem Muster der anderen Marktplätze. Wie Sie am besten vorgehen, erfahren Sie auf der [Handbuchseite](https://knowledge.plentymarkets.com/omni-channel/multi-channel/flubit) Flubit.
+Wie gewohnt haben wir den Marktplatz voll in plentymarkets integriert. Die Einrichtung erfolgt nach dem Muster der anderen Marktplätze. Wie Sie am besten vorgehen, erfahren Sie auf der <a href="https://knowledge.plentymarkets.com/omni-channel/multi-channel/flubit" target="_blank">Handbuchseite</a> Flubit.
 
 Die britische Unternehmung fand Ihre Anfänge erst Ende 2012. Deshalb ist der Service momentan nur für die Links von Online-Shops und Marktplätzen mit einer UK-URL möglich. Das bedeutet zum Beispiel, dass Kunden Flubit mit einem Artikel, der auf Amazon.de gelistet ist, nicht nutzen können, allerdings aber mit einem Artikel von Amazon.co.uk. Dasselbe gilt für die Lieferadressen der Kundschaft. Flubit bietet seinen Service derzeit nur für Aufträge mit einer Lieferadresse im Vereinigten Königreich an. Eine Erweiterung des Geschäftsmodells auf Deutschland ist bereits in Planung.
 
 Kurz gesagt: Derzeit können Sie Ihre Produkte nur für Ihre Kunden in UK anbieten.
 Vergessen Sie dabei nicht, dass die Artikel, die Sie über Flubit anbieten möchten, auch auf Englisch vorhanden sein müssen. 
 
-Weitere Informationen zu Flubit und zur Registrierung finden Sie über die Händleradresse [weflubit.com](https://sellers.skucloud.co.uk/).
+Weitere Informationen zu Flubit und zur Registrierung finden Sie über die Händleradresse <a href="https://sellers.skucloud.co.uk/" target="_blank">weflubit.com</a>.
 
 

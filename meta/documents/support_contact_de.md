@@ -9,6 +9,6 @@
  
 <a href="mailto:https://www.plentymarkets.eu/">support@plentymarkets.com</a>
 
-## Manual
+## Handbuch
 
-<a href="https://knowledge.plentymarkets.com/omni-channel/multi-channel/flubit#200" target="_blank">Knowledge</a>
+<a href="https://knowledge.plentymarkets.com/omni-channel/multi-channel/flubit" target="_blank">Knowledge</a>

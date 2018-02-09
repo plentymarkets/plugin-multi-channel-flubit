@@ -11,4 +11,4 @@
 
 ## Manual
 
-<a href="https://knowledge.plentymarkets.com/en/omni-channel/multi-channel/flubit#20" target="_blank">Knowledge</a>
+<a href="https://knowledge.plentymarkets.com/en/omni-channel/multi-channel/flubit" target="_blank">Knowledge</a>
