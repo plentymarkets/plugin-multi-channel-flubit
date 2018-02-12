@@ -7,7 +7,7 @@
  
 ## Email
  
-<a href="mailto:https://www.plentymarkets.eu/">support@plentymarkets.com</a>
+<a href="mailto:support@plentymarkets.com">support@plentymarkets.com</a>
 
 ## Manual
 
