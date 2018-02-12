@@ -17,11 +17,11 @@ One of the main reasons why it's possible to offer a lower price on Flubit is be
 
 ## Where and how can you use Flubit?
 
-Flubit is completely integrated in plentymarkets. It is configured the same as other markets. Take a look at the Flubit page of the [manual](https://knowledge.plentymarkets.com/en/omni-channel/multi-channel/flubit) for information on how this is done.
+Flubit is completely integrated in plentymarkets. It is configured the same as other markets. Take a look at the Flubit page of the <a href="https://knowledge.plentymarkets.com/en/omni-channel/multi-channel/flubit" target="_blank">manual</a> for information on how this is done.
 
 The British company made its debut in 2012 and has already taken the UK by storm. At the moment, its services are available for links from online stores and markets that have a UK URL. In other words, customers can use Flubit for an item that they found on Amazon.co.uk, but not for an item listed on Amazon.de. The same applies to the customer's delivery address. Flubit currently offers its service for orders that have a delivery address in the United Kingdom. The company is currently planning to expand its business model to other countries.
 
 In short: At the moment, you can only offer your products to customers in the UK.
 If you typically sell in a different language, don't forget that any items you offer on Flubit need to be available in English. 
 
-Further information about Flubit and a link to the registration area are found under [weflubit.com](https://sellers.skucloud.co.uk/).
+Further information about Flubit and a link to the registration area are found under <a href="https://sellers.skucloud.co.uk/" target="_blank">weflubit.com</a>.

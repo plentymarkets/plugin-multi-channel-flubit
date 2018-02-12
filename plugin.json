@@ -1,5 +1,5 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.3",
   "name": "Flubit",
   "description": "Um Flubit in plentymarkets nutzen zu können, ist eine Händlerregistrierung bei Flubit nötig.",
   "namespace": "MultiChannelFlubit",
@@ -16,5 +16,5 @@
     3523
   ],
   "price": 0.00,
-  "type": "info"
+  "type": "plentyInfo"
 }
