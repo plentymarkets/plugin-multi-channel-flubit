@@ -1,6 +1,3 @@
-## Weitere Informationen und Support im Forum <a href="https://forum.plentymarkets.com/c/multi-channel/flubit" target="_blank"> <i class="fa fa-external-link" aria-hidden="true"></i></a>
-<p></p>
-
 ## Web page
  
 <a href="https://www.plentymarkets.eu/" target="_blank">plentymarkets.eu</a>
