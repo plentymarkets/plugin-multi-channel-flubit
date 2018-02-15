@@ -1,5 +1,5 @@
 {
-  "version": "1.0.3",
+  "version": "1.0.4",
   "name": "Flubit",
   "description": "Um Flubit in plentymarkets nutzen zu können, ist eine Händlerregistrierung bei Flubit nötig.",
   "namespace": "MultiChannelFlubit",
@@ -8,8 +8,8 @@
   "email": "support@plentymarkets.eu",
   "authorIcon": "icon_author_xs.png",
   "shortDescription": {
-    "de": "Der Marktplatz Flubit ist in plentymarkets 7 bereits integriert. Um Flubit in plentymarkets nutzen zu können, ist eine Händlerregistrierung bei Flubit nötig..",
-    "en": "Flubit is already integrated into your plentymarkets 7 system. A Flubit seller account is mandatory for setting up Flubit in plentymarkets."
+    "de": "Über die Anbindung des Online-Marktplatzes Flubit wird der automatische Austausch von Artikel- und Auftragsdaten mit plentymarkets ermöglicht, um Artikel auf Flubit zu listen. Die Schnittstelle zu Flubit ist in plentymarkets 7 bereits integriert.",
+    "en": "The integration of the online marketplace Flubit enables an automatic exchange of item- and order data with plentymarkets, allowing to list items on Flubit. The interface to Flubit is already integrated into plentymarkets 7."
   },
   "license": "AGPL-3.0",
   "categories": [
